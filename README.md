@@ -107,7 +107,7 @@ A complete data analytics project designed to analyze Amazon sales performance, 
 * Customer recommendation engine
 
 ---
-
+https://github.com/user-attachments/assets/2c6591a1-14b8-4e10-b5eb-a38229ea6607" 
 
 ## Author
 **Ankur Shukla**
